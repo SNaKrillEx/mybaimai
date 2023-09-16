@@ -18,7 +18,7 @@ MySQL
 
 #### 使用说明
 
-1.  xxxx
+1.  (http://localhost:8080/login)
 2.  xxxx
 3.  xxxx
 
